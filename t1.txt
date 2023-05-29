@@ -1,0 +1,3 @@
+Name=Neel
+Age=22
+Year=3rd Year
